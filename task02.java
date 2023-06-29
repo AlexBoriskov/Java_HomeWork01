@@ -10,7 +10,7 @@ public class task02 {
         count = 0; 
     }
     }
-
+    
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите число: ");
